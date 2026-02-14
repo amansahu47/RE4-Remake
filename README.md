@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="assets/re4-remake-trainer-logo.png" alt="Resident Evil 4 Remake Trainer Logo" width="220"/>
   <br/><br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&duration=4500&pause=1200&color=FF4500&center=true&vCenter=true&width=750&lines=RESIDENT+EVIL+4+REMAKE+TRAINER;OP+INFINITE+HEALTH+2026;GODMODE+INFINITE+AMMO;NO+RECOIL+DAMAGE+BOOST;SPEED+HACK;UNDTECTED+FAST" alt="Typing SVG" />
 </p>
